@@ -141,11 +141,6 @@ If you'd like to contribute to gator, please fork the repository, create a new b
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-## Contact
-
-For any questions or issues, please open an issue in the GitHub repository, or contact me directly at [your-email@example.com].
 
 ---
 
